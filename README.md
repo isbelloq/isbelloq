@@ -1,10 +1,10 @@
 # Hola mi nombre es Santiago Bello
 
-* 👨‍🎓 Soy __fisico__ de la Universidad Nacional de Colombia.
-* 🤓 Soy entusiasta de las __ciencias de la computacion__ y las __matematicas__.
-* 👨‍💻 Programo modelos de __machine learning__ y algunas __neural networks__
-* ✏️ Estoy aprendiendo __Docker__.
- 
+* 👨‍🎓 Soy __físico__ de la Universidad Nacional de Colombia.
+* 🤓 Soy entusiasta de las __ciencias de la computacion__, las __matematicas__, el __machine learning__ y las __neural networks__.
+* 🌱 Actualmente estoy aprendiendo __Java__.
+* 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/isbelloq/).
+
 ## Estadisticas de GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isbelloq&show_icons=true&theme=dark)
